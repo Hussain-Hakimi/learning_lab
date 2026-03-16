@@ -20,6 +20,7 @@ m = 200
 num, m = int(num), str(m)
 print(num, m)
 
+
 # Assign two variables in one line and then reassign one by casting it into a float 
 p,q = 7, 14
 p = float(p)
