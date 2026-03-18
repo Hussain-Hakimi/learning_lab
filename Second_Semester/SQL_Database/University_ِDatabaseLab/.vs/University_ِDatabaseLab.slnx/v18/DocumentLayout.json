@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\learning_lab\\Second_Semester\\SQL_Database\\University_\u0650DatabaseLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09D76AF4-445C-7478-49E0-1050ADBD4788}|Lab1DATABASE\\Lab1DATABASE.ssmssqlproj|D:\\University\\learning_lab\\Second_Semester\\SQL_Database\\University_\u0650DatabaseLab\\Lab1DATABASE\\Lab1DATABASE.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{09D76AF4-445C-7478-49E0-1050ADBD4788}|Lab1DATABASE\\Lab1DATABASE.ssmssqlproj|solutionrelative:Lab1DATABASE\\Lab1DATABASE.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab1DATABASE.sql - DESKTOP-ASGUKMQ.master (DESKTOP-ASGUKMQ\\AH (72))",
+              "DocumentMoniker": "D:\\University\\learning_lab\\Second_Semester\\SQL_Database\\University_\u0650DatabaseLab\\Lab1DATABASE\\Lab1DATABASE.sql",
+              "RelativeDocumentMoniker": "Lab1DATABASE\\Lab1DATABASE.sql",
+              "ToolTip": "Lab1DATABASE.sql - DESKTOP-ASGUKMQ.master (DESKTOP-ASGUKMQ\\AH (72))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-18T08:55:23.122Z",
+              "EditorCaption": " - DESKTOP-ASGUKMQ.master (DESKTOP-ASGUKMQ\\AH (72))"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
