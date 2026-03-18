@@ -40,14 +40,14 @@
           <FullPath>Lab5DATABASE.sql</FullPath>
         </FileNode>
         <FileNode Name="Lab6DATABASE.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-ASGUKMQ:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-ASGUKMQ</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>Lab6DATABASE.sql</FullPath>
         </FileNode>
         <FileNode Name="Lab7DATABASE.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-ASGUKMQ:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-ASGUKMQ</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>Lab7DATABASE.sql</FullPath>
         </FileNode>
