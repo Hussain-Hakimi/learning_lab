@@ -32,18 +32,26 @@ A systematic breakdown of my semester-wise progress:
 
 ---
 
-## 📊 Programming Language Distribution
-To visualize my focus areas, here is the automated breakdown of the languages used in this repository:
+## 📊 Language Distribution & Proficiency
+This card reflects the languages I use most frequently across my repositories, demonstrating my current technical focus.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainhakimi&layout=compact&theme=vision-glow&hide_border=true" alt="Hussain's Top Langs" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussain-Hakimi&layout=compact&theme=vision-glow&hide_border=true&langs_count=8" alt="Hussain's Top Languages" />
+  </a>
 </p>
 
-> **Note:** These percentages are calculated based on the total byte count of source code files. As I move deeper into C# and SQL this semester, the distribution will shift accordingly.
+> **Note:** These statistics are dynamically generated. As I commit more C# and SQL code to the `Learning_lab` repository, these percentages will automatically update to reflect my growth.
+
 
 ---
 
 ## 🚀 How to Navigate
 1. **Explore by Semester:** Navigate into the respective folders to find lab tasks and projects.
 2. **Clean Code:** Every project is governed by a global `.gitignore` to ensure only source code is archived, excluding build artifacts.
-3. **Contact:** Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/hussainhakimi/) for collaboration.
+---
+### 🤝 Let's Connect
+<p align="left">
+<a href="https://www.linkedin.com/in/hussain-hakimi" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:hussainhakimi216@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=icloud&logoColor=white" /></a>
+</p>
