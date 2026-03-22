@@ -46,7 +46,7 @@ This card reflects the languages I use most frequently across my repositories, d
 
 ---
 
-## 🚀 How to Navigate
+## 🚀 How to Navigate .
 1. **Explore by Semester:** Navigate into the respective folders to find lab tasks and projects.
 2. **Clean Code:** Every project is governed by a global `.gitignore` to ensure only source code is archived, excluding build artifacts.
 ---
