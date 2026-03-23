@@ -15,6 +15,12 @@
 *.ssmssetup
 *.sqluser
 
+# --- SQL Server Management Studio (SSMS) ---
+*.ssmssqlproj
+*.ssmssln
+*.ssmssetup
+*.sqluser
+
 # ====================================================================
 # 2. ENVIRONMENT & SECRETS (CRITICAL: Do not leak passwords)
 # ====================================================================
