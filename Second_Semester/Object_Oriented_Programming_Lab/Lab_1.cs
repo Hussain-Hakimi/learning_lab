@@ -17,6 +17,10 @@ namespace Object_Oriented_Programming_Lab
 
         public static void FirstSimpleExercise()
         {
+            //Print Hello and Name
+
+
+
 
         }
 
