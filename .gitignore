@@ -1,20 +1,71 @@
-# --- Operating System Junk ---
-.DS_Store
-Thumbs.db
+# ====================================================================
+# 1. DATABASE SPECIFIC (SQL Server, SQLite, Backups)
+# ====================================================================
+*.mdf
+*.ldf
+*.ndf
+*.bak
+*.dmp
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal
+*.db-wal
+# Ignore SQL Server Management Studio (SSMS) user settings
+*.ssmssetup
+*.sqluser
 
-# --- Visual Studio & C# ---
+# ====================================================================
+# 2. ENVIRONMENT & SECRETS (CRITICAL: Do not leak passwords)
+# ====================================================================
+.env
+.venv/
+env/
+venv/
+ENV/
+*.secrets
+appsettings.json
+appsettings.Development.json
+
+# ====================================================================
+# 3. PYTHON (Build, Cache, Metadata)
+# ====================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.tox/
+.nox/
+build/
+dist/
+*.egg-info/
+
+# ====================================================================
+# 4. C# / .NET / VISUAL STUDIO
+# ====================================================================
 .vs/
 [Bb]in/
 [Oo]bj/
 *.user
 *.suo
+*.userosscache
+*.sln.docstates
 
-# --- Python & VS Code ---
-__pycache__/
-*.py[cod]
+# ====================================================================
+# 5. IDEs & EDITORS (JetBrains + VS Code)
+# ====================================================================
+.idea/
+*.iml
 .vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+*.swp
+*.swo
 
-# --- Databases ---
-*.mdf
-*.ldf
-*.sqlite3
+# ====================================================================
+# 6. OPERATING SYSTEM JUNK
+# ====================================================================
+.DS_Store
+Thumbs.db
+desktop.ini
