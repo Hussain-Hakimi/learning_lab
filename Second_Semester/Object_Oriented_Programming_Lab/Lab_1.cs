@@ -52,7 +52,7 @@ class Lab_1
             
     }
 
-    public static 
+    
 
 
 
