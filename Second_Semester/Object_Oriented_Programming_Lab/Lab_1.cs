@@ -3,6 +3,7 @@ class Lab_1
 {
     public static void Main(string[] args)
     {
+        Problem8();
 
     }
     static void First10problems()
@@ -37,9 +38,24 @@ class Lab_1
         result = num1 * num2 * num3;
 
         Console.WriteLine($"{num1} x {num2} x {num3} = {result}");
-
-
-
-
     }
+
+    public static void Problem8()
+    {
+        Console.WriteLine("Please Enter a number that i create a Multiplication Table of it");
+        int num = Convert.ToInt32(Console.ReadLine());
+
+        for (int mul = 1; mul <=10; mul++)
+        {
+            Console.WriteLine($" {mul} x {num} = {mul* num} ");
+        }
+            
+    }
+
+    public static 
+
+
+
+
+    
 }
