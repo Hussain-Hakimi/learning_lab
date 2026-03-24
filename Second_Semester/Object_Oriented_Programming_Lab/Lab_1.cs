@@ -3,7 +3,7 @@ class Lab_1
 {
     public static void Main(string[] args)
     {
-        First10problems();
+
     }
     static void First10problems()
 
