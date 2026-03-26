@@ -87,7 +87,7 @@ class Program
 
         Console.WriteLine($"ID:   {s.GetStudentId()}");
         Console.WriteLine($"Name:   {s.GetStudentName()}");
-        Console.WriteLine("Marks: " + s.GetMarks());
-        Console.WriteLine("Grade: " + s.GetGrade());
+        Console.WriteLine($"Marks: {s.GetMarks()} ");
+        Console.WriteLine($"Grade:  {s.GetGrade()}");
     }
 }
