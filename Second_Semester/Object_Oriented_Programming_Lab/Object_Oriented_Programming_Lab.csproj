@@ -43,8 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GoogleClassRoomQ2.cs" />
+    <Compile Include="GoogleClassRoom.cs" />
     <Compile Include="Lab_1.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="GiftCard.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
