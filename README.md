@@ -1,5 +1,5 @@
 # 🎓 Learning Lab | My Software Engineering Journey
-### University of Engineering and Technology (UET) Lahore
+
 
 
 This repository serves as a centralized archive of my academic and independent progress in Software Engineering. It tracks my evolution from foundational logic to advanced Object-Oriented Programming and Database Management.
