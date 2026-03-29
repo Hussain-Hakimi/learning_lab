@@ -1,9 +1,6 @@
-# 🎓 Learning Lab | Software Engineering Journey
-### University of Engineering and Technology (UET) Lahore
+# 🎓 Learning Lab | My Software Engineering Journey
 
-![GitHub Language Count](https://img.shields.io/github/languages/count/hussainhakimi/Learning_lab?color=blue&style=flat-square)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/hussainhakimi/Learning_lab?style=flat-square)
-![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)
+
 
 This repository serves as a centralized archive of my academic and independent progress in Software Engineering. It tracks my evolution from foundational logic to advanced Object-Oriented Programming and Database Management.
 ---
@@ -23,8 +20,8 @@ This card reflects the languages I use most frequently across my repositories, d
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | C#, Python, SQL, HTML5, CSS3 |
-| **Tools** | Git, GitHub, Visual Studio, VS Code, PowerShell 7 |
-| **Concepts** | OOP, Database Design (ERDs), Algorithmic Thinking |
+| **Tools** | Git, GitHub, Visual Studio, VS Code, |
+| **Concepts** | OOP, Database Design (ERDs), Algorithmic Thinking, mini projects |
 
 ---
 
