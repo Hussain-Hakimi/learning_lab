@@ -28,17 +28,4 @@ public class GiftCard
     }
 
 }
-// Example usage 
-public class proram
-{
-    public static void Main(string[] args)
-    {
-        GiftCard myGiftCard = new GiftCard();
-        Console.WriteLine(myGiftCard.Recharge(100)); // Recharge the gift card with $100
-        Console.WriteLine(myGiftCard.Redeem(30)); // Redeem $30 from the gift card
-        Console.WriteLine(myGiftCard.Redeem(80)); // Attempt to redeem $80, which exceeds the current balance
-        Console.WriteLine(myGiftCard.Recharge(-20)); // Attempt to recharge with a negative amount
-    }
-
-}
 

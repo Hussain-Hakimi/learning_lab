@@ -82,23 +82,5 @@ class Employee
     }
 
 
-    // main method to test the Employee class
 
-
-    class Program
-    {
-        static void Main()
-        {
-            Employee employ = new Employee();
-
-            employ.SetEmployeeId(1);
-            employ.SetEmployeeName("Ali");
-            employ.SetBasicSalary(30000);
-
-            Console.WriteLine($"ID:  {employ.GetEmployeeId()}");
-            Console.WriteLine($"Name:  {employ.GetEmployeeName()}");
-            Console.WriteLine($"Basic Salary: {employ.GetBasicSalary()}");
-            Console.WriteLine($"Net Salary: {employ.CalculateNetSalary()}");
-        }
-    }
 }
