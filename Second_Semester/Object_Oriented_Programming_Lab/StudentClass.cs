@@ -8,6 +8,7 @@ public class Student
     private int _marks;
 
     // Public properties with validation
+    
     public string Name
     {
         get => _name;
@@ -35,6 +36,7 @@ public class Student
                 );
             }
             _marks = value;
+            
         }
     }
 
@@ -110,6 +112,12 @@ public class Program
         {
             Console.WriteLine($"❌ After change attempt:");
             Console.WriteLine($"   {ex.Message}");
+            
+           
+            
+
+
+
         }
     }
 }

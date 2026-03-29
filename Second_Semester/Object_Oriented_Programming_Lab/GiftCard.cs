@@ -8,7 +8,7 @@ public class GiftCard
 
     public string Redeem(decimal amount)
     {
-        if (amount> _amount)
+        if (amount > _amount)
         {
             return "Field amount must be less than or equal to the current balance.";
 
@@ -29,7 +29,7 @@ public class GiftCard
 
 }
 // Example usage 
-public class  proram
+public class proram
 {
     public static void Main(string[] args)
     {

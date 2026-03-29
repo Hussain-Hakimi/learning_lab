@@ -1,0 +1,6 @@
+/* Visual Studio Settings File */
+{
+  "intellicode.general.enableGaia": false,
+  "languages.csharp.general.autoBraceCompletion": false,
+  "intellicode.general.csharpRefactorings": false
+}

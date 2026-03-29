@@ -64,16 +64,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="GoogleClassRoomQ2.cs" />
-    <Compile Include="GoogleClassRoom.cs" />
-    <Compile Include="Lab_1.cs" />
+    <Compile Include="StudentClass.cs" />
     <Compile Include="GiftCard.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include=".gitignore" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -35,7 +35,7 @@ class Employee
 
     // setter method to set the employee name with valedation
     // these validation is to ensure that the name is not null or empty, which helps maintain data integrity and prevents potential issues when working with employee names in the future.
-    
+
 
     public void SetEmployeeName(string name)
     {
@@ -98,7 +98,7 @@ class Employee
             Console.WriteLine($"ID:  {employ.GetEmployeeId()}");
             Console.WriteLine($"Name:  {employ.GetEmployeeName()}");
             Console.WriteLine($"Basic Salary: {employ.GetBasicSalary()}");
-            Console.WriteLine($"Net Salary: { employ.CalculateNetSalary()}");
+            Console.WriteLine($"Net Salary: {employ.CalculateNetSalary()}");
         }
     }
 }
