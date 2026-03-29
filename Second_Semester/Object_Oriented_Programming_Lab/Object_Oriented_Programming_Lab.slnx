@@ -1,3 +1,9 @@
 <Solution>
-  <Project Path="Object_Oriented_Programming_Lab.csproj" Id="aa7e1b94-4892-4afc-9d7b-8546015465e1" />
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="ARM64" />
+  </Configurations>
+  <Project Path="Object_Oriented_Programming_Lab.csproj" Id="aa7e1b94-4892-4afc-9d7b-8546015465e1">
+    <Platform Solution="Debug|ARM64" Project="ARM64" />
+  </Project>
 </Solution>
