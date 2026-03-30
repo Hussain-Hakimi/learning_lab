@@ -64,6 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BookClass.cs" />
+    <Compile Include="CarClass.cs" />
     <Compile Include="ProductClass.cs" />
     <Compile Include="GoogleClassRoomQ2.cs" />
     <Compile Include="StudentClass.cs" />
