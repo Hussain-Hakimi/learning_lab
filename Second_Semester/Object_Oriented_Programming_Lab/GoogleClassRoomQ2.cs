@@ -1,5 +1,14 @@
 ﻿using System;
 
+public class Program
+{
+    public static void Main()
+    {
+        StudentMain();
+    }
+}
+
+
 class Employee
 {
     private int _employeeId;

@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 public class Student
 {
     // Private fields (encapsulated)
@@ -57,7 +58,7 @@ public class Student
 
 public class Program
 {
-    public static void Main()
+    public static void StudentMain()
     {
         // Scenario 1: Valid marks (no exception)
         try
