@@ -63,6 +63,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BookClass.cs" />
+    <Compile Include="ProductClass.cs" />
     <Compile Include="GoogleClassRoomQ2.cs" />
     <Compile Include="StudentClass.cs" />
     <Compile Include="GiftCard.cs" />
