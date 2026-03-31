@@ -4,17 +4,6 @@
 
 This repository serves as a centralized archive of my academic and independent progress in Software Engineering. It tracks my evolution from foundational logic to advanced Object-Oriented Programming and Database Management.
 ---
-## 📊 Language Distribution & Proficiency
-This card reflects the languages I use most frequently across my repositories, demonstrating my current technical focus.
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussain-Hakimi&layout=compact&theme=vision-glow&hide_border=true&langs_count=8" alt="Hussain's Top Languages" />
-  </a>
-</p>
-
-> **Note:** These statistics are dynamically generated. As I commit more C# and SQL code to the `Learning_lab` repository, these percentages will automatically update to reflect my growth.
----
 
 ## 🛠 Tech Stack & Skills
 | Category | Technologies |
