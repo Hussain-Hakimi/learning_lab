@@ -66,6 +66,7 @@
     <Compile Include="BookClass.cs" />
     <Compile Include="CarClass.cs" />
     <Compile Include="BandAccount.cs" />
+    <Compile Include="ExameSystem.cs" />
     <Compile Include="DepartmentClassDeepcopy.cs" />
     <Compile Include="DeepCopyAndShalloCopy.cs" />
     <Compile Include="ProductClass.cs" />
