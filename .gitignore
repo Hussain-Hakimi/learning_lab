@@ -1,5 +1,5 @@
 # ====================================================================
-# 1. DATABASE SPECIFIC (SQL Server, SQLite, Backups)
+# 1. DATABASE(SQL Server, SQLite, Backups)
 # ====================================================================
 *.mdf
 *.ldf
@@ -22,7 +22,7 @@
 *.sqluser
 
 # ====================================================================
-# 2. ENVIRONMENT & SECRETS (CRITICAL: Do not leak passwords)
+# 2. ENVIRONMENT & SECRETS
 # ====================================================================
 .env
 .venv/
@@ -34,7 +34,7 @@ appsettings.json
 appsettings.Development.json
 
 # ====================================================================
-# 3. PYTHON (Build, Cache, Metadata)
+# python 
 # ====================================================================
 __pycache__/
 *.py[cod]
