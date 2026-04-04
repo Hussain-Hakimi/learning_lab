@@ -66,6 +66,7 @@
     <Compile Include="BookClass.cs" />
     <Compile Include="CarClass.cs" />
     <Compile Include="BandAccount.cs" />
+    <Compile Include="MovieClass.cs" />
     <Compile Include="ClassCar.cs" />
     <Compile Include="RoomClass.cs" />
     <Compile Include="ExameSystem.cs" />
