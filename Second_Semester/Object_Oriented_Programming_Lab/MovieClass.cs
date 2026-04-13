@@ -38,18 +38,18 @@ public class Movie
     }
 }
 
-public class program
-{
-    public static void Main()
-    {
-        Movie M1 = new Movie();
-        M1.Display();
-        Movie M2 = new Movie("Love");
-        M2.Display();
-        Movie M3 = new Movie("Love", "John");
-        M3.Display();
-        Movie M4 = new Movie("Love", "John", 2020);
-        M4.Display();
+//public class program
+//{
+//    public static void Main()
+//    {
+//        Movie M1 = new Movie();
+//        M1.Display();
+//        Movie M2 = new Movie("Love");
+//        M2.Display();
+//        Movie M3 = new Movie("Love", "John");
+//        M3.Display();
+//        Movie M4 = new Movie("Love", "John", 2020);
+//        M4.Display();
 
 
 

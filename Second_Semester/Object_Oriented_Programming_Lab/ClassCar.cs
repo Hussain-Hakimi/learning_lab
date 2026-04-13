@@ -51,16 +51,16 @@ public class Car
 }
 
 // Example usage
-class Program
-{
-    static void Main()
-    {
-        var generic = new Car("Compact X", 22000m, 16.5);
-        var economy = new Car("EcoMini");                 // uses economy defaults
-        var luxury = new Car("Luxora", true);             // uses luxury defaults
+//class Program
+//{
+//    static void Main()
+//    {
+//        var generic = new Car("Compact X", 22000m, 16.5);
+//        var economy = new Car("EcoMini");                 // uses economy defaults
+//        var luxury = new Car("Luxora", true);             // uses luxury defaults
 
-        Console.WriteLine(generic);
-        Console.WriteLine(economy);
-        Console.WriteLine(luxury);
-    }
+//        Console.WriteLine(generic);
+//        Console.WriteLine(economy);
+//        Console.WriteLine(luxury);
+//    }
 }

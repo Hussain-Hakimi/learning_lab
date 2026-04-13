@@ -35,18 +35,18 @@ namespace Object_Oriented_Programming_Lab
             Console.WriteLine("Answer: " + Answer);
         }
     }
-    public class program
-    {
-        static void Main(string[] args)
-        {
-            Exame q1 = new Exame("What is OOP?", 5, "Object-Oriented Programming");
-            Exame q2 = new Exame("What is Encapsulation?", 5);
-            Exame q3 = new Exame("What is Inheritance?");
-            q1.Display();
-            Console.WriteLine();
-            q2.Display();
-            Console.WriteLine();
-            q3.Display();
-        }
+    //public class program
+    //{
+    //    static void Main(string[] args)
+    //    {
+    //        Exame q1 = new Exame("What is OOP?", 5, "Object-Oriented Programming");
+    //        Exame q2 = new Exame("What is Encapsulation?", 5);
+    //        Exame q3 = new Exame("What is Inheritance?");
+    //        q1.Display();
+    //        Console.WriteLine();
+    //        q2.Display();
+    //        Console.WriteLine();
+    //        q3.Display();
+    //    }
     }
 }
