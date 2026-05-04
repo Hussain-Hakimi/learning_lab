@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Data Visualization System</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Interactive Data Visualization System</h1>
+            <p class="subtitle">Transform Raw Numbers into Visual Insights</p>
+        </header>
+
+        <main>
+            <!-- Data Input Section -->
+            <section class="input-section">
+                <h2>Enter Student Data</h2>
+                <div class="form-group">
+                    <label for="studentName">Student Name:</label>
+                    <input type="text" id="studentName" placeholder="Enter student name">
+                </div>
+
+                <div class="form-group">
+                    <label for="studentMarks">Marks:</label>
+                    <input type="number" id="studentMarks" placeholder="Enter marks (0-100)" min="0" max="100">
+                </div>
+
+                <button id="addStudentBtn" class="btn btn-add">Add Student</button>
+
+                <div id="studentsList" class="students-list">
+                    <h3>Current Students:</h3>
+                    <table id="studentsTable">
+                        <thead>
+                            <tr>
+                                <th>Student Name</th>
+                                <th>Marks</th>
+                                <th>Action</th>
+                            </tr>
+                        </thead>
+                        <tbody id="tableBody">
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+
+            <!-- Graph Configuration Section -->
+            <section class="config-section">
+                <h2>Graph Configuration</h2>
+                
+                <div class="form-group">
+                    <label for="graphType">Select Graph Type:</label>
+                    <select id="graphType">
+                        <option value="bar">Bar Graph</option>
+                        <option value="line">Line Graph</option>
+                        <option value="pie">Pie Chart</option>
+                        <option value="scatter">Scatter Plot</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="graphColor">Graph Color:</label>
+                    <input type="color" id="graphColor" value="#3498db">
+                </div>
+
+                <div class="form-group">
+                    <label for="graphSize">Graph Size:</label>
+                    <select id="graphSize">
+                        <option value="small">Small (400x300)</option>
+                        <option value="medium" selected>Medium (600x400)</option>
+                        <option value="large">Large (800x600)</option>
+                    </select>
+                </div>
+
+                <button id="generateGraphBtn" class="btn btn-generate">Generate Graph</button>
+                <button id="clearDataBtn" class="btn btn-clear">Clear All Data</button>
+            </section>
+
+            <!-- Graph Display Section -->
+            <section class="graph-section">
+                <h2>Visualization</h2>
+                <div id="graphContainer" class="graph-container">
+                    <p class="placeholder">Your graph will appear here...</p>
+                </div>
+            </section>
+        </main>
+
+        <footer>
+            <p>&copy; 2024 Interactive Data Visualization System | AICT & PF Project</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
