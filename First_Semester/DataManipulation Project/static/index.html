@@ -13,6 +13,48 @@
             <p class="subtitle">Transform Raw Numbers into Visual Insights</p>
         </header>
 
+        <!-- NEW: Pro Guidance Section (flex, small icons & text) -->
+        <div class="guidance-section">
+            <h2>📘 Quick Guide</h2>
+            <div class="guidance-steps">
+                <div class="guide-card">
+                    <div class="guide-icon">1️⃣</div>
+                    <div class="guide-text">
+                        <strong>Add students</strong>
+                        <span>Enter name & marks → click <em>Add Student</em></span>
+                    </div>
+                </div>
+                <div class="guide-card">
+                    <div class="guide-icon">2️⃣</div>
+                    <div class="guide-text">
+                        <strong>Build your list</strong>
+                        <span>View & delete entries using the red button</span>
+                    </div>
+                </div>
+                <div class="guide-card">
+                    <div class="guide-icon">3️⃣</div>
+                    <div class="guide-text">
+                        <strong>Customize graph</strong>
+                        <span>Choose type (Bar/Line/Pie/Scatter), color & size</span>
+                    </div>
+                </div>
+                <div class="guide-card">
+                    <div class="guide-icon">4️⃣</div>
+                    <div class="guide-text">
+                        <strong>Generate & download</strong>
+                        <span>Click Generate Graph → save as PNG</span>
+                    </div>
+                </div>
+                <div class="guide-card tip-card">
+                    <div class="guide-icon">💡</div>
+                    <div class="guide-text">
+                        <strong>Pro tip</strong>
+                        <span>Pie charts need 3+ students. Use “Clear All” to reset.</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
         <main>
             <!-- Data Input Section -->
             <section class="input-section">
@@ -48,7 +90,7 @@
             <!-- Graph Configuration Section -->
             <section class="config-section">
                 <h2>Graph Configuration</h2>
-                
+
                 <div class="form-group">
                     <label for="graphType">Select Graph Type:</label>
                     <select id="graphType">
@@ -83,11 +125,15 @@
                 <div id="graphContainer" class="graph-container">
                     <p class="placeholder">Your graph will appear here...</p>
                 </div>
+                <!-- Download button added -->
+                <div class="download-wrapper">
+                    <button id="downloadBtn" class="btn btn-download">⬇️ Download Graph as PNG</button>
+                </div>
             </section>
         </main>
 
         <footer>
-            <p>&copy; 2024 Interactive Data Visualization System | AICT & PF Project</p>
+            <p>&copy; May 2026 Interactive Data Visualization System | AICT & PF Project</p>
         </footer>
     </div>
 
